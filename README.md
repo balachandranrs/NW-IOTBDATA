@@ -3,7 +3,7 @@ National Workshop sponsored by ISRO - IOT and Big Data Analytics for Telemedicin
 
 Organized by Pondicherry Engineering College (India)
 
-This repository contains the following -
+This repository contains the following cases -
 
 1) Framingham Case Study
 
@@ -13,4 +13,6 @@ This repository contains the following -
 
 4) Cancer detection from Text data using TF-IDF
 
-5) Introduction to Data Analysis using Python
+5) Treatment Quality Analysis
+
+6) Introduction to Data Analysis using Python
