@@ -1,6 +1,8 @@
 # NW-IOTBDATA
 National Workshop sponsored by ISRO - IOT and Big Data Analytics for Telemedicine Applications
 
+Organized by Pondicherry Engineering College (India)
+
 This repository contains the following -
 
 1) Framingham Case Study
